@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <title>Bücher</title>
+  <meta name="author" content="Jochen Ziegenbalg">
+  <meta name="keywords" content="Figurierte Zahlen, Algorithmen, Zahlentheorie, Simulationen, Logo"> 
+  <!-- next:  css stuff / reduce margin -->
+  <style>    
+    p {margin: 10px }
+    <!-- p {margin-bottom: 10px }  -->
+  </style>  
+</head>
+
+<body> 
+<h2> &nbsp;Texte, Materialien, Bücher <br> 
+     <small> <small> &nbsp; zu Mathematik und Informatik <br> 
+	 &nbsp; Jochen Ziegenbalg </small> </small> </h2> 
+
+<p> <i>Status</i>:  work in progress   <br> </p>  
+
+<ul>     
+  <li> <a href="Buecher/z-books.html"> Bücher </a>  </li>
+  <li> <a href="Manuskripte/manuskripte.html"> Texte und Manuskripte </a> </li>  
+  <li> <a href="Simulationen/interactive-demos.html"> Interaktive Demos und Simulationen </a> </li>  
+  <li> <a href="Maxima/Maxima.html"> Maxima Computeralgebra System </a>  </li>
+  <li> <a href="Mathematica/Mathematica.html"> Mathematica Computeralgebra System </a>  </li>  
+  <!-- <li> <a href="https://jochenziegenbalg.wordpress.com/jochen-ziegenbalg/"> Jochen Ziegenbalg / WordPress - Seiten </a> </li> 
+  <li> <a href="Datenschutzerklaerung/Datenschutzerklaerung.html"> Datenschutzerklärung </a> </li> 
+  <li> <a href="Impressum/Impressum.html"> Impressum </a> </li> --> 
+</ul> 
+  
+  <p> <i> Ein allgemeiner Hinweis</i>:  &nbsp; </p> 
+  <p> Nach meiner Entpflichtung haben sich im Laufe der Zeit meine elektronischen "Koordinaten" wie folgt geändert:  </p> 
+  
+  <p> &nbsp;&nbsp; Email (neu): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; ziegenbalg.edu@gmail.com <br>  
+  &nbsp;&nbsp; Homepage (neu): &nbsp;&nbsp; <a href="https://jochen-ziegenbalg.github.io/homepage-JZ">
+  https://jochen-ziegenbalg.github.io/materialien  </a> </p>
+  
+  <p> Was meine Veröffentlichungen auf diesen Seiten und anderswo betrifft, so bin ich noch nicht dazu gekommen, alle Links entsprechend abzuändern.  &nbsp; Es könnte deshalb sinnvoll sein, gesuchte (aber nicht gefundene) Dateien unter der neuen (und nicht der alten) Internet-Adresse zu suchen.  </p>  
+
+  
+</body> 
+
+</html> 
